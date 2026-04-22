@@ -1,2 +1,2 @@
 # AtomicHabbitTracker
-Atomic habbit tracker app inspired by atomic habbits book
+Atomic habbit tracker app inspired by atomic habbits book by using streamlit 
